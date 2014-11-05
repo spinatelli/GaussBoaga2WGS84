@@ -1,0 +1,26 @@
+{
+  "name": "GB2WGS84",
+  "version": "0.0.1",
+  "description": "GaussBoaga2WGS84",
+  "main": "node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spinatelli/GaussBoaga2WGS84"
+  },
+  "author": "Sergio Spinatelli",
+  "contributors": [
+    {
+      "name": "Sergio Spinatelli",
+      "mail": "sergio.spinatelli@mail.polimi.it"
+    }
+  ],
+  "license": "CC BY-SA 3.0",
+  "bugs": {
+    "url": "https://github.com/spinatelli/GaussBoaga2WGS84/issues"
+  },
+  "dependencies": {
+    "proj4": "*",
+    "fast-csv": "*"
+  },
+  "homepage": "https://github.com/spinatelli/GaussBoaga2WGS84"
+}
